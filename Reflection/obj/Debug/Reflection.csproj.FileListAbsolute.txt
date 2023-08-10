@@ -1,0 +1,8 @@
+C:\Users\USER\OneDrive\Belgeler\workspace\C#\Reflection\bin\Debug\Reflection.exe.config
+C:\Users\USER\OneDrive\Belgeler\workspace\C#\Reflection\bin\Debug\Reflection.exe
+C:\Users\USER\OneDrive\Belgeler\workspace\C#\Reflection\bin\Debug\Reflection.pdb
+C:\Users\USER\OneDrive\Belgeler\workspace\C#\Reflection\obj\Debug\Reflection.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Belgeler\workspace\C#\Reflection\obj\Debug\Reflection.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\OneDrive\Belgeler\workspace\C#\Reflection\obj\Debug\Reflection.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Belgeler\workspace\C#\Reflection\obj\Debug\Reflection.exe
+C:\Users\USER\OneDrive\Belgeler\workspace\C#\Reflection\obj\Debug\Reflection.pdb

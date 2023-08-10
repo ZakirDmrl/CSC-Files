@@ -1,0 +1,8 @@
+C:\Users\USER\OneDrive\Belgeler\workspace\C#\FuncExample\FuncExample\bin\Debug\FuncExample.exe.config
+C:\Users\USER\OneDrive\Belgeler\workspace\C#\FuncExample\FuncExample\bin\Debug\FuncExample.exe
+C:\Users\USER\OneDrive\Belgeler\workspace\C#\FuncExample\FuncExample\bin\Debug\FuncExample.pdb
+C:\Users\USER\OneDrive\Belgeler\workspace\C#\FuncExample\FuncExample\obj\Debug\FuncExample.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Belgeler\workspace\C#\FuncExample\FuncExample\obj\Debug\FuncExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\OneDrive\Belgeler\workspace\C#\FuncExample\FuncExample\obj\Debug\FuncExample.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Belgeler\workspace\C#\FuncExample\FuncExample\obj\Debug\FuncExample.exe
+C:\Users\USER\OneDrive\Belgeler\workspace\C#\FuncExample\FuncExample\obj\Debug\FuncExample.pdb
